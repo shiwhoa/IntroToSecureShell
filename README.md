@@ -1,2 +1,2 @@
-# Linux and Secure Shell Intro
-Custom user defined functions, recursions and forking
+# Custom Finds
+Custom user defined find function in a directory and subdirectories based on various critera
